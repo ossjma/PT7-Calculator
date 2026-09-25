@@ -21,11 +21,11 @@ function calculateInterpolation() {
 
   // Given data points
   const dataPoints = [
-    { x: 1230.8, y: 13 },
-    { x: 2415.4, y: 24 },
-    { x: 3627.2, y: 38 },
-    { x: 4855.4, y: 52 },
-    { x: 6060.3, y: 65 }
+    { x: 1210.3, y: 14 },
+    { x: 2443.0, y: 25 },
+    { x: 3630.3, y: 38 },
+    { x: 4845.2, y: 52 },
+    { x: 6110.1, y: 65 }
   ];
 
   // Get user input (Z)
