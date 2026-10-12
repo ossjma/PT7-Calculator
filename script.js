@@ -14,7 +14,7 @@ function calculateInterpolation() {
   if (currentDate > cutoffDate) {
     document.getElementById("result").innerText = 'Interpolated value (in PSI):';
     document.getElementById("roundedResult").innerText = 'Rounded Off Interpolated value (in PSI):';
-    document.getElementById("error").innerText = 'Error: Data entry not allowed after 24 July 2026';
+    document.getElementById("error").innerText = 'Error: Data entry not allowed after 11 Sept 2027';
     document.getElementById("torqueValue").innerText = 'Torque value (in Nm): ';
     return;
   }
