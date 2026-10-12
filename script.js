@@ -8,7 +8,7 @@ document.getElementById("torqueInput").addEventListener("keyup", function(event)
 function calculateInterpolation() {
   // Check the current date
   const currentDate = new Date();
-  const cutoffDate = new Date('2026-07-24');
+  const cutoffDate = new Date('2027-09-11');
 
   // Check if the current date is beyond the cutoff date
   if (currentDate > cutoffDate) {
